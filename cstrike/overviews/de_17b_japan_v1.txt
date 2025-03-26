@@ -1,0 +1,14 @@
+// overview description file for de_17b_japan_v1.bsp
+
+global 
+{
+	ZOOM	1.30
+	ORIGIN	-512 	204	736
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_17b_japan_v1.bmp"
+	HEIGHT	-64
+}
