@@ -1,0 +1,10 @@
+Roof_Wars // 
+
+Map by Anas(RoubaL)
+
+Pick up a weapon and rush through the roofs and kill each other !!
+
+NOTE : it's preferable to turn sv_gravity into 60 when playing with stupid bots :p
+
+
+(Press "Heuhh" to continue). 

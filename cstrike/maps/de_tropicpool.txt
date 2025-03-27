@@ -1,0 +1,56 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: de_tropicpool
+
+Release         : Version 4
+
+Date		: 16th Sept 2002
+
+Filename   	: de_tropicpool.bsp
+
+Author		: Team.EOE.=FaNaTiker=
+ 
+Email Address	: shadow891@gmx.net
+
+ICQ             : ICQ:110814865
+
+Home page	: under con. www.telepages.de.vu
+
+Description	: A pool in the desert
+
+Previous Maps	: cs_schwimmbad,cs_remoteassault..PART of FAnatikers Map-Pack
+
+Credits/Thanks	: Thanks to Lucas L. for the concept of Tropicpool and thx to all mappers,textures,admins,modeler and everybody,THX
+
+                
+------Play Information-----------------------------------------------
+
+Counter-Strike : Bomb/Defusion - 20 starts defined.
+
+Counter-Terrorists: Prevent the Terrorist
+forces from destroying the wall .
+
+Terrorists: Destroy the green wall,
+Eliminate all CT's if necessary.
+
+Other Notes: There are 2 places  2 Bomb.
+
+
+(Press Fire to continue)
+
+
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

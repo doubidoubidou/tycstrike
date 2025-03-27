@@ -1,0 +1,261 @@
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: C:\DOCUME~1\GAREN~1\MINADO~1\DOWNLO~1\VHE_PACK\hlcsg.exe C:\Program\Steam\steamapps\per_r94\counter-strike\Cstrike\Maps\hns_luffarens_town 
+Entering C:\Program\Steam\steamapps\per_r94\counter-strike\Cstrike\Maps\hns_luffarens_town.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+ (0.06 seconds)
+SetModelCenters:
+ (0.00 seconds)
+CSGBrush:
+ (0.22 seconds)
+
+Including Wadfile: \documents and settings\ägaren\mina dokument\downloads\vhe_pack\zhlt.wad
+ - Contains 2 used textures, 7.14 percent of map (8 textures in wad)
+Using Wadfile: \documents and settings\ägaren\mina dokument\downloads\vhe_pack\intoxxfull.wad
+ - Warning: Larger than expected texture (348972 bytes): 'PARED1'
+ - Warning: Larger than expected texture (348972 bytes): 'WOOD'
+ - Warning: Larger than expected texture (348972 bytes): 'THEROCK'
+ - Warning: Larger than expected texture (348972 bytes): 'ESCAMAS'
+ - Warning: Larger than expected texture (348972 bytes): 'LADRILLOSWALL'
+ - Warning: Larger than expected texture (348972 bytes): 'EARTHS'
+ - Warning: Larger than expected texture (348972 bytes): 'PAPELTA'
+ - Contains 3 used textures, 10.71 percent of map (42 textures in wad)
+Using Wadfile: \documents and settings\ägaren\mina dokument\downloads\vhe_pack\praulego.wad
+ - Contains 1 used texture, 3.57 percent of map (80 textures in wad)
+Using Wadfile: \documents and settings\ägaren\mina dokument\downloads\vhe_pack\fydust.wad
+ - Contains 0 used textures, 0.00 percent of map (49 textures in wad)
+Using Wadfile: \documents and settings\ägaren\mina dokument\downloads\vhe_pack\de_predator_wad.wad
+ - Contains 0 used textures, 0.00 percent of map (41 textures in wad)
+Using Wadfile: \documents and settings\ägaren\mina dokument\downloads\vhe_pack\cs_norway_assault.wad
+ - Contains 0 used textures, 0.00 percent of map (45 textures in wad)
+Using Wadfile: \documents and settings\ägaren\mina dokument\downloads\vhe_pack\cs_newjork.wad
+ - Contains 2 used textures, 7.14 percent of map (122 textures in wad)
+Using Wadfile: \documents and settings\ägaren\mina dokument\downloads\vhe_pack\cs_assault_ducki2.wad
+ - Warning: Larger than expected texture (348972 bytes): 'HOLZ4'
+ - Contains 1 used texture, 3.57 percent of map (70 textures in wad)
+Using Wadfile: \documents and settings\ägaren\mina dokument\downloads\vhe_pack\cr33per.wad
+ - Contains 15 used textures, 53.57 percent of map (334 textures in wad)
+Using Wadfile: \documents and settings\ägaren\mina dokument\downloads\vhe_pack\snowfacility.wad
+ - Contains 4 used textures, 14.29 percent of map (203 textures in wad)
+
+Warning: More than 8 wadfiles are in use. (10)
+This may be harmless, and if no strange side effects are occurring, then
+it can safely be ignored. However, if your map starts exhibiting strange
+or obscure errors, consider this as suspect.
+
+
+Texture usage is at 1.66 mb (of 4.00 mb MAX)
+1.00 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: C:\DOCUME~1\GAREN~1\MINADO~1\DOWNLO~1\VHE_PACK\hlbsp.exe C:\Program\Steam\steamapps\per_r94\counter-strike\Cstrike\Maps\hns_luffarens_town 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...1000...1234 (0.05 seconds)
+BSP generation successful, writing portal file 'C:\Program\Steam\steamapps\per_r94\counter-strike\Cstrike\Maps\hns_luffarens_town.prt'
+SolidBSP [hull 1] 500...1000...1284 (0.03 seconds)
+SolidBSP [hull 2] 500...1000...1250 (0.03 seconds)
+SolidBSP [hull 3] 500...1000...1328 (0.05 seconds)
+0.45 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: C:\DOCUME~1\GAREN~1\MINADO~1\DOWNLO~1\VHE_PACK\hlvis.exe C:\Program\Steam\steamapps\per_r94\counter-strike\Cstrike\Maps\hns_luffarens_town 
+ 629 portalleafs
+2062 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (0.22 seconds)
+LeafThread:
+ (20.92 seconds)
+average leafs visible: 216
+g_visdatasize:40547  compressed from 49691
+21.16 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlrad -----
+Command line: C:\DOCUME~1\GAREN~1\MINADO~1\DOWNLO~1\VHE_PACK\hlrad.exe -extra C:\Program\Steam\steamapps\per_r94\counter-strike\Cstrike\Maps\hns_luffarens_town 
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 2 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+max lighting memory  [           6291456 ] [           6291456 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[                on ] [               off ]
+bounces              [                 1 ] [                 1 ]
+bounce dynamic light [                on ] [                on ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           255.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [ 1.000 1.000 1.000 ] [ 1.000 1.000 1.000 ]
+global gamma         [ 0.500 0.500 0.500 ] [ 0.500 0.500 0.500 ]
+global light scale   [             1.000 ] [             1.000 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+colour jitter        [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+monochromatic jitter [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+softlight hack       [   0.0 0.0 0.0 0.0 ] [   0.0 0.0 0.0 0.0 ]
+diffuse hack         [                on ] [                on ]
+spotlight points     [                on ] [                on ]
+
+custom shadows with bounce light
+                     [               off ] [               off ]
+rgb transfers        [               off ] [               off ]
+
+
+[Reading texlights from 'C:\DOCUME~1\GAREN~1\MINADO~1\DOWNLO~1\VHE_PACK\lights.rad']
+[59 texlights parsed from 'C:\DOCUME~1\GAREN~1\MINADO~1\DOWNLO~1\VHE_PACK\lights.rad']
+
+4358 faces
+Create Patches : 36750 base patches
+0 opaque faces
+489963 square feet [70554720.00 square inches]
+10 direct lights
+
+BuildFacelights:
+ (60.28 seconds)
+visibility matrix   :  80.5 megs
+BuildVisLeafs:
+ (36.47 seconds)
+MakeScales:
+ (13.80 seconds)
+SwapTransfers:
+ (5.44 seconds)
+Transfer Lists :    87955532 :   87.96M transfers
+       Indices :    25860384 :   24.66M bytes
+          Data :   351822128 :  335.52M bytes
+GatherLight:
+ (1.78 seconds)
+FinalLightFace:
+ (1.16 seconds)
+119.39 seconds elapsed [1m 59s]
+
+-----   END   hlrad -----
+
+
+

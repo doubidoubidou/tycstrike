@@ -1,0 +1,57 @@
+de_mangashop / de_mangashop_esc
+(fy series comming soon)
+
+by Xale (adam050986@yahoo.fr)
+
+Credits & Thanks :
+
+- CS:Condition Zero : deleted scene
+- Naruto : Naiteki Kensei & ESF (HL1 Mods)
+- ginsengavenger (cs_industrywest)
+- Dr.DeK & DeBUGGeR (de_leestore)
+- Sm0lders (cs_robbery)
+- Philip Klevestav (de_morningstar)
+- 3DMike (de_dealock, de_747, cs_bikini)
+- FPSBanana & beta-testers
+
+See mangashop_credits.txt file for more
+
+And about that pic of the chinese who has
+get backstapped : don't forget violence
+is never the best solution to your problems !
+
+
+
+Mangashop rmf
+
+==> rename *.source in *.rar
+
+=> Ask me the password by mail
+or
+=> use a brute-force rar-cracker. I only use small standard characters
+
+(This an anti-idiot-filter ;) ).
+
+
+
+
+Low framerate ?
+
+Type cl_corpsestay 0 in console !!
+
+
+Additionnal credits :
+
+- Edgar Barons (Antari) for his tram prefab, helping me doing wires and support stuff. Good basics and look-out, but crappy w_polys optimized.
+- Gtwalq for his TV entertainement unit +computer unit. Absolutely not w_poly optimized aswell, and scale above 2x time the reality. Got a lot of work to get it on my map :).
+- BuZZeR for his Samsung C100 model. Funny !
+- el-pepi for his kirby model & sound. e_poly is a bit high, but still, amazing !!
+- &erson for his nice Portal radio :p
+- ALL THE PEOPLE WHO MAKE (GREAT) TUTORIALS
+OVER THE INTERNET (I READ YOU EVEN IF YOU
+DON'T THINK I AM !!) 
+- Tom for his Hammer v3.5 FGD with models preview. Amazing !
+- Amckern, XP-Cagey and the whole ZHLT team. Amazing Work too.
+=> If you'd like the *.rmf file, just ask me
+=> If you wanna do a CS:S version, send me a mail
+(I'm gonna do it, but it may take some time...)

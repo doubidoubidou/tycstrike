@@ -1,0 +1,17 @@
+Paradox Park-Bomb Defuse
+Original op4_park by Tom "Paradox" and Mustaine
+Port by Izuko Fukuda
+
+Black Mesa is known for its extensive employee benefits in New Mexico and throughout the U.S. the facilitie in the employee area for employees to relax in their spare time include a theme park and a roller coaster,but after the Resonance Cascade Accident,this area became the main defense for the surviving scientists(Counter-Terrorists)in the employee area,and the military(Terrorists) was coming in like sharks with the smell of blood,and if they blow up the track of or foundation of the roller coaster,they can make the area undefendable.
+
+Counter-Terrorists(Scientists):
+HECU has moved into abandoned theme park,defend and protect the track and foundation of roller coaster,if the coaster are blown up,the defense of this area will go down the drain.
+Tip:Hide on rooftops or at the end of tunnels and use sniper rifles or shotguns to surprise reckless terrorists.
+
+Terrorists(HECU):
+Some of the hardened scientists are still defending this area,enter the theme park,locate and find the roller coaster track or foundation area where you can plant and detonate your bomb to break down these robble's defense,Prevent the Counter-Terrorists from eliminate you and your team or defuse the bomb before it detonated.
+Tip:Use smoke grenades to mask movement when moving in open areas.
+
+Other Notes:
+There are two target locations in the theme park.
+Up to 15 CTs and 15 Terrorists against each others.
